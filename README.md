@@ -72,6 +72,5 @@ python evaluate.py
 
 ---
 
-📌 **Author**: Om Bhutkar  
-
+📌 **Author**: Shriram Savant 
 
